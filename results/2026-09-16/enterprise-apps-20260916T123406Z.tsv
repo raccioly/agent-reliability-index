@@ -1,0 +1,7 @@
+repo	sha	heuristic	docguard	ar	why	signals
+trycompai/crm	6d4793dd6d7a	heuristic 65/100 (C)	29/100 (F)	58% (D)	Agentic CRM	AGENTS.md,CLAUDE.md,SECURITY.md
+refinedev/refine	2352eb5b6539	heuristic 50/100 (D)	18/100 (F)	0% (F)	Admin/B2B framework	SECURITY.md
+nocobase/nocobase	b4bf5ed13209	heuristic 55/100 (C)	25/100 (F)	67% (C)	No-code business systems	AGENTS.md,CLAUDE.md,SECURITY.md
+illacloud/illa-builder	a468660903e2	heuristic 50/100 (D)	7/100 (F)	0% (F)	Internal tools / Retool alt	none
+appsmithorg/appsmith	dc53ed71cfcb	heuristic 60/100 (C)	16/100 (F)	0% (F)	Admin panels / internal tools	SECURITY.md
+twentyhq/twenty	0de4040d62ab	heuristic 65/100 (C)	15/100 (F)	67% (C)	CRM / Salesforce alt	AGENTS.md,CLAUDE.md

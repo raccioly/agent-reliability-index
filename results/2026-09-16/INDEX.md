@@ -2,7 +2,7 @@
 
 Constructive DocGuard (and a small websec) scorecards on public GitHub clones. Low CDD scores mean missing agent-readable rails (canonical docs, guard coverage), not that the software is poor.
 
-No upstream source is republished. Per-wave notes: [README.md](./README.md) (wave 1), [WAVE2B.md](./WAVE2B.md), [WAVE3.md](./WAVE3.md), [websec/](./websec/).
+No upstream source is republished. Per-wave notes: [README.md](./README.md) (wave 1), [WAVE2B.md](./WAVE2B.md), [WAVE3.md](./WAVE3.md), [ENTERPRISE.md](./ENTERPRISE.md), [websec/](./websec/).
 
 ## Wave 1
 
@@ -45,6 +45,10 @@ Famous-library control sample. Raw TSV: [`corpus-wave3-20260916T121254Z.tsv`](./
 | `pallets/click` | `6aabf09` | 19/100 (F) |
 
 Skipped: `tedivm/jmespath.py` (repository not found).
+
+## Enterprise apps
+
+Enterprise-shaped public apps (CRM, admin/B2B, no-code, internal tools). Notes: [ENTERPRISE.md](./ENTERPRISE.md). Raw TSV: [`enterprise-apps-20260916T123406Z.tsv`](./enterprise-apps-20260916T123406Z.tsv). Heuristic middling; CDD low (7–29) — popular ≠ agent-ready; CDD ≠ product quality.
 
 ## Websec sample
 
