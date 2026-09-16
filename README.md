@@ -21,6 +21,7 @@ Public constructive scorecards for well-known open-source repos. Credibility lay
 ## License
 MIT (for index tooling/reports). Upstream projects retain their own licenses; we do not republish their source.
 
-## Latest public dry-run
+## Results
+See [results/2026-09-16/INDEX.md](./results/2026-09-16/INDEX.md) for wave 1, wave 2b, wave 3, and the websec sample (repo / SHA / score tables).
 
-See [results/2026-09-16](./results/2026-09-16/) for the first 8-repo corpus.
+Low CDD scores indicate missing agent rails on public clones — not a quality ranking of the software.
