@@ -14,3 +14,5 @@ Constructive DocGuard dry-runs on shallow clones. No upstream source republished
 | `prettier/prettier` | `125f6c218580` | 23/100 (F) | 476/523 passed | 45 warning |
 
 Raw TSV: [`corpus8-20260916T084837Z.tsv`](./corpus8-20260916T084837Z.tsv)
+
+Also see [WAVE2B.md](./WAVE2B.md) for six more repos.

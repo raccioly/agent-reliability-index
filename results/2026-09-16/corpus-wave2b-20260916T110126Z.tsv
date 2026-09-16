@@ -1,0 +1,7 @@
+repo	sha	score	guard	warnings	notes
+pallets/click	6aabf099bfdd	CDD Maturity Score: 19/100 (F)	52/66 passed	6 warning	wave2b
+encode/httpx	b5addb64f016	CDD Maturity Score: 23/100 (F)	44/54 passed	3 warning	wave2b
+axios/axios	ba0f3a0c568e	CDD Maturity Score: 24/100 (F)	256/274 passed	12 warning	wave2b
+rust-lang/rustlings	a650509c789d	CDD Maturity Score: 18/100 (F)	44/59 passed	13 warning	wave2b
+sindresorhus/is	7821031c66cd	CDD Maturity Score: 20/100 (F)	16/29 passed	10 warning	wave2b
+tj/commander.js	ba6d13ddb424	CDD Maturity Score: 29/100 (F)	114/135 passed	14 warning	wave2b
