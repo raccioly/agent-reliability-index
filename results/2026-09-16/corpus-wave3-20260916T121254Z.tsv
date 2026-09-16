@@ -1,0 +1,6 @@
+repo	sha	docguard_cdd	notes
+psf/requests	dae7ef6	19/100 (F)	wave3 famous control; no CDD scaffold
+pallets/jinja	5ef7011	19/100 (F)	wave3 famous control; no CDD scaffold
+encode/starlette	03f12b7	17/100 (F)	wave3 famous control; heuristic cross-check ~80
+yaml/pyyaml	34a9bf8	19/100 (F)	wave3 famous control; no CDD scaffold
+pallets/click	6aabf09	19/100 (F)	wave3 famous control; no CDD scaffold
