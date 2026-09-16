@@ -16,3 +16,5 @@ Constructive DocGuard dry-runs on shallow clones. No upstream source republished
 Raw TSV: [`corpus8-20260916T084837Z.tsv`](./corpus8-20260916T084837Z.tsv)
 
 Also see [WAVE2B.md](./WAVE2B.md) for six more repos.
+
+Websec sample: [websec/](./websec/)
