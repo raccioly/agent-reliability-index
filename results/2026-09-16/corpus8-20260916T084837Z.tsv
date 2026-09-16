@@ -1,0 +1,9 @@
+repo	sha	score	guard	warnings	notes
+expressjs/express	9a34acf03cb8	CDD Maturity Score: 19/100 (F)	33/43 passed	2 warning	dry-run
+pallets/flask	d73fa1cdcbd8	CDD Maturity Score: 19/100 (F)	17/30 passed	5 warning	dry-run
+vitejs/vite	bd3a3a96552a	CDD Maturity Score: 17/100 (F)	108/126 passed	18 warning	dry-run
+tiangolo/fastapi	50113da16fec	CDD Maturity Score: 19/100 (F)	1705/1717 passed	9 warning	dry-run
+github/spec-kit	1d5106f59e1b	CDD Maturity Score: 32/100 (D)	215/227 passed	6 warning	dry-run
+sindresorhus/awesome	bc98e517ddca	CDD Maturity Score: 5/100 (F)	48/59 passed	3 warning	dry-run
+cli/cli	0cf1092493af	CDD Maturity Score: 15/100 (F)	98/125 passed	25 warning	dry-run
+prettier/prettier	125f6c218580	CDD Maturity Score: 23/100 (F)	476/523 passed	45 warning	dry-run
