@@ -18,3 +18,7 @@ Western Union / employer client trees. Only public GitHub.
 
 ## License
 MIT (for index tooling/reports). Upstream projects retain their own licenses; we do not republish their source.
+
+## Latest public dry-run
+
+See [results/2026-09-16](./results/2026-09-16/) for the first 8-repo corpus.
