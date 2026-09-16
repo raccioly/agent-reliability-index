@@ -14,7 +14,9 @@ Private design + dry-runs live under Ricardo's Mission Control. This README is t
 4. Publish TSV + per-repo report with top actionable gaps
 
 ## Hard excludes
-Western Union / employer client trees. Only public GitHub.
+- No employer or client worktrees
+- Public GitHub repositories only
+- No private source republished; scorecards only
 
 ## License
 MIT (for index tooling/reports). Upstream projects retain their own licenses; we do not republish their source.
