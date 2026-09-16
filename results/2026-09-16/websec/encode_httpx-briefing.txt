@@ -1,0 +1,21 @@
+websec-validator v0.13.0  ·  target: /private/tmp/websec-ari2/httpx  ·  run 20260916-070516
+
+  stack:    python  ·  frameworks: ?  ·  datastores: ?
+  auth:     unknown
+  tenant?:  none detected
+  routes:   0 endpoints via noir
+            1 fixture/example endpoint(s) excluded (test/example code ≠ attack surface; --include-fixtures to analyze)
+  targets:  IDOR=0 SSRF=0 upload=0 writes=0
+
+  scanners available: Trivy, Gitleaks, OSV-Scanner  (add --scan to execute them)
+
+  staged 5 tailored probe template(s) → /Users/ricardoaccioly/MissionControl/baselines/famous-dryrun/websec-20260916T110511Z/httpx-out/runs/20260916-070516/probes
+
+  ledger: 4 finding(s) · {'MEDIUM': 3, 'LOW': 1} · confidence {'MEDIUM': 3, 'LOW': 1}
+
+✓ run 20260916-070516 saved (immutable — nothing overwritten):
+    /Users/ricardoaccioly/MissionControl/baselines/famous-dryrun/websec-20260916T110511Z/httpx-out/runs/20260916-070516
+    REPORT.md          — full historical record
+    AGENT-BRIEFING.md  — hand this to your AI coding agent
+    results.sarif      — SARIF 2.1.0 for CI / GitHub Code Scanning
+  latest → /Users/ricardoaccioly/MissionControl/baselines/famous-dryrun/websec-20260916T110511Z/httpx-out/latest    ·    add `websec-out/` to .gitignore
